@@ -55,6 +55,9 @@ title = "Week 2.0: Group properties"
 [modules."Cx2026GroupsTeacher.Week2.Week2_1"]
 title = "Week 2.1: Further group results"
 
+[modules."Cx2026GroupsTeacher.Week2.Week2_2"]
+title = "Week 2.2: Cancellation and using hypotheses"
+
 [modules."Cx2026GroupsTeacher.Week3"]
 title = "Week 3"
 
