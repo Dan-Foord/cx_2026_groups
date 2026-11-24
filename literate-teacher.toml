@@ -64,6 +64,9 @@ title = "Week 3"
 [modules."Cx2026GroupsTeacher.Week3.Week3_0"]
 title = "Week 3.0: Subgroups and membership"
 
+[modules."Cx2026GroupsTeacher.Week3.Week3_1"]
+title = "Week 3.1: Intersections of subgroups"
+
 [modules."Cx2026GroupsTeacher.Week4"]
 title = "Week 4"
 
@@ -78,3 +81,9 @@ title = "Week 5"
 
 [modules."Cx2026GroupsTeacher.Week5.Week5_0"]
 title = "Week 5.0: Lagrange's theorem"
+
+[modules."Cx2026GroupsTeacher.Week6"]
+title = "Week 6"
+
+[modules."Cx2026GroupsTeacher.Week6.Week2_3"]
+title = "Orders of elements"
